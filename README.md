@@ -1,3 +1,6 @@
+- 필기 사이트
+  - https://blog.naver.com/ericalee97/222174258643
+---
 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ko)
 
 [Kaggle Ref](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr)
